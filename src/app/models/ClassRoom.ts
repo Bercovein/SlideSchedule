@@ -1,4 +1,8 @@
 export class ClassRoom{
 
-    number : Number;
+    number : String;
+
+    constructor(number){
+        this.number = number;
+    }
 }

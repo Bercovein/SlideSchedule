@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Metodología en Sistemas 1",
+        "startDate" : "marzo",
+        "endDate" : "junio"
+    },
+    {
+        "name" : "Metodología en Sistemas 1",
+        "startDate" : "marzo",
+        "endDate" : "junio"
+    },
+    {
+        "name" : "Metodología en Sistemas 3",
+        "startDate" : "agosto",
+        "endDate" : "diciembre"
+    },
+    {
+        "name" : "Metodología en Sistemas 3",
+        "startDate" : "agosto",
+        "endDate" : "diciembre"
+    },
+    {
+        "name" : "Matematica 1",
+        "startDate" : "marzo",
+        "endDate" : "junio"
+    }
+]
