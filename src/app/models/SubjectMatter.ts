@@ -2,13 +2,10 @@ import { Class } from './Class';
 
 export class SubjectMatter {
     name : String;
-    startDate : Date;
-    endDate : Date;
     classList : Class[];
 
-    constructor(name, startDate, endDate){
+    constructor(name, classList){
         this.name = name;
-        this.startDate = startDate;
-        this.endDate = endDate;
+        this.classList = classList;
     }
 }

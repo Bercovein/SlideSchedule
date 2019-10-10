@@ -29,6 +29,4 @@ export class SubjectService implements IService {
   update(subject: SubjectMatter) {
     throw new Error("Method not implemented.");
   }
-
-  
 }

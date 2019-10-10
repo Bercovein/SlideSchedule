@@ -1,12 +1,13 @@
-import { Commision } from './Commision';
-import { Schedule } from './Schedule';
+import { Time } from '@angular/common';
 
 export class Class{
-    commision : Commision;
-    scheduleList : Schedule[];
+    commision : String;
+    time : Time;
+    day : Date;
 
-    constructor(commision, scheduleList){
+    constructor(commision, time, day){
         this.commision = commision;
-        this.scheduleList = scheduleList;
+        this.time = time;
+        this.day = day;
     }
 }
